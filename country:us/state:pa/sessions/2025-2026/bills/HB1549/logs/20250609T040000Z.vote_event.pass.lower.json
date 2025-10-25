@@ -1,0 +1,234 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Rules): Re-report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-09T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "01b73aee-b152-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1549",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Matthew Bradford",
+      "voter_id": "~{\"name\": \"Matthew Bradford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Bizzarro",
+      "voter_id": "~{\"name\": \"Ryan Bizzarro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mary Jo Daley",
+      "voter_id": "~{\"name\": \"Mary Jo Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tina Davis",
+      "voter_id": "~{\"name\": \"Tina Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jason Dawkins",
+      "voter_id": "~{\"name\": \"Jason Dawkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Fiedler",
+      "voter_id": "~{\"name\": \"Elizabeth Fiedler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Frankel",
+      "voter_id": "~{\"name\": \"Dan Frankel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick Harkins",
+      "voter_id": "~{\"name\": \"Patrick Harkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jordan Harris",
+      "voter_id": "~{\"name\": \"Jordan Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leanne Krueger",
+      "voter_id": "~{\"name\": \"Leanne Krueger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Matzie",
+      "voter_id": "~{\"name\": \"Robert Matzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joanna Mcclinton",
+      "voter_id": "~{\"name\": \"Joanna Mcclinton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeanne Mcneill",
+      "voter_id": "~{\"name\": \"Jeanne Mcneill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darisha K. Parker",
+      "voter_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benjamin Sanchez",
+      "voter_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Schlossberg",
+      "voter_id": "~{\"name\": \"Michael Schlossberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jesse Topper",
+      "voter_id": "~{\"name\": \"Jesse Topper\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kerry Benninghoff",
+      "voter_id": "~{\"name\": \"Kerry Benninghoff\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bryan Cutler",
+      "voter_id": "~{\"name\": \"Bryan Cutler\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sheryl Delozier",
+      "voter_id": "~{\"name\": \"Sheryl Delozier\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jonathan Fritz",
+      "voter_id": "~{\"name\": \"Jonathan Fritz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rob Kauffman",
+      "voter_id": "~{\"name\": \"Rob Kauffman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kate Klunk",
+      "voter_id": "~{\"name\": \"Kate Klunk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "John Lawrence",
+      "voter_id": "~{\"name\": \"John Lawrence\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Timothy J. O'Neal",
+      "voter_id": "~{\"name\": \"Timothy J. O'Neal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Clint Owlett",
+      "voter_id": "~{\"name\": \"Clint Owlett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tina Pickett",
+      "voter_id": "~{\"name\": \"Tina Pickett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "David Rowe",
+      "voter_id": "~{\"name\": \"David Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "James Struzzi",
+      "voter_id": "~{\"name\": \"James Struzzi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Martina White",
+      "voter_id": "~{\"name\": \"Martina White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 15
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=680&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=680&sessYr=2025&sessInd=0#HB 1549"
+}

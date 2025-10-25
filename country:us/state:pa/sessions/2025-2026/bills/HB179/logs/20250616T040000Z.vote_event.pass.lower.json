@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Agriculture & Rural Affairs): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-16T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "09aacf9c-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 179",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Eddie Pashinski",
+      "voter_id": "~{\"name\": \"Eddie Pashinski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johanny Cepeda-Freytiz",
+      "voter_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Dougherty",
+      "voter_id": "~{\"name\": \"Sean Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Friel",
+      "voter_id": "~{\"name\": \"Paul Friel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "G. Roni Green",
+      "voter_id": "~{\"name\": \"G. Roni Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Liz Hanbidge",
+      "voter_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristine Howard",
+      "voter_id": "~{\"name\": \"Kristine Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarik Khan",
+      "voter_id": "~{\"name\": \"Tarik Khan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Kinkead",
+      "voter_id": "~{\"name\": \"Emily Kinkead\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darisha K. Parker",
+      "voter_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christina Sappey",
+      "voter_id": "~{\"name\": \"Christina Sappey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Takac",
+      "voter_id": "~{\"name\": \"Paul Takac\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Moul",
+      "voter_id": "~{\"name\": \"Dan Moul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephanie Borowicz",
+      "voter_id": "~{\"name\": \"Stephanie Borowicz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bud Cook",
+      "voter_id": "~{\"name\": \"Bud Cook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hamm",
+      "voter_id": "~{\"name\": \"Joe Hamm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Jones",
+      "voter_id": "~{\"name\": \"Tom Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Kerwin",
+      "voter_id": "~{\"name\": \"Joe Kerwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charity Krupa",
+      "voter_id": "~{\"name\": \"Charity Krupa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Lawrence",
+      "voter_id": "~{\"name\": \"John Lawrence\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marci Mustello",
+      "voter_id": "~{\"name\": \"Marci Mustello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry A. Stambaugh",
+      "voter_id": "~{\"name\": \"Perry A. Stambaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Stender",
+      "voter_id": "~{\"name\": \"Michael Stender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Zimmerman",
+      "voter_id": "~{\"name\": \"David Zimmerman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christopher Rabb",
+      "voter_id": "~{\"name\": \"Christopher Rabb\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=2&rollcallid=748&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=2&rollcallid=748&sessYr=2025&sessInd=0#HB 179"
+}

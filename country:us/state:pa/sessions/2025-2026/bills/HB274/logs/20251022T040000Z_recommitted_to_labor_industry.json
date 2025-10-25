@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-committed to Labor & Industry",
+    "date": "2025-10-22T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 274"
+}

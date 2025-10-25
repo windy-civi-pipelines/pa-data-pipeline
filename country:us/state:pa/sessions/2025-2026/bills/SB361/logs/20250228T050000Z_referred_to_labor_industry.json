@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Labor & Industry",
+    "date": "2025-02-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 361"
+}

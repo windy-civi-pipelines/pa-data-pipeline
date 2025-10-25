@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Labor & Industry): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-01-27T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "a1ed688e-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 153",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Picozzi",
+      "voter_id": "~{\"name\": \"Joe Picozzi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marty Flynn",
+      "voter_id": "~{\"name\": \"Marty Flynn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "John Kane",
+      "voter_id": "~{\"name\": \"John Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nick Pisciottano",
+      "voter_id": "~{\"name\": \"Nick Pisciottano\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christine Tartaglione",
+      "voter_id": "~{\"name\": \"Christine Tartaglione\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=13&rollcallid=1&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=13&rollcallid=1&sessYr=2025&sessInd=0#SB 153"
+}

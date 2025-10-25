@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Human Services): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-03-05T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "debeafe6-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 749",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Dan Williams",
+      "voter_id": "~{\"name\": \"Dan Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bellmon",
+      "voter_id": "~{\"name\": \"Anthony Bellmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Benham",
+      "voter_id": "~{\"name\": \"Jessica Benham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Cerrato",
+      "voter_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jose Giral",
+      "voter_id": "~{\"name\": \"Jose Giral\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "G. Roni Green",
+      "voter_id": "~{\"name\": \"G. Roni Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Harris",
+      "voter_id": "~{\"name\": \"Keith Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarik Khan",
+      "voter_id": "~{\"name\": \"Tarik Khan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Kinkead",
+      "voter_id": "~{\"name\": \"Emily Kinkead\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La'Tasha Mayes",
+      "voter_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danielle Friel Otten",
+      "voter_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Prokopiak",
+      "voter_id": "~{\"name\": \"Jim Prokopiak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikki Rivera",
+      "voter_id": "~{\"name\": \"Nikki Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doyle Heffley",
+      "voter_id": "~{\"name\": \"Doyle Heffley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Anderson",
+      "voter_id": "~{\"name\": \"Marc Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Bashline",
+      "voter_id": "~{\"name\": \"Josh Bashline\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Flick",
+      "voter_id": "~{\"name\": \"Jamie Flick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ann Flood",
+      "voter_id": "~{\"name\": \"Ann Flood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hogan",
+      "voter_id": "~{\"name\": \"Joe Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelby Labs",
+      "voter_id": "~{\"name\": \"Shelby Labs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Milou Mackenzie",
+      "voter_id": "~{\"name\": \"Milou Mackenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brenda Pugh",
+      "voter_id": "~{\"name\": \"Brenda Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Reichard",
+      "voter_id": "~{\"name\": \"Chad Reichard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Schlegel",
+      "voter_id": "~{\"name\": \"John Schlegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Weaknecht",
+      "voter_id": "~{\"name\": \"Eric Weaknecht\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=56&rollcallid=86&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=56&rollcallid=86&sessYr=2025&sessInd=0#HB 749"
+}

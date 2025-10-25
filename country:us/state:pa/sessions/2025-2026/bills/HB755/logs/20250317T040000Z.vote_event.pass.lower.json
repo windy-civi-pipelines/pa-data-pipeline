@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Insurance): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-03-17T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "e2a5d6de-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 755",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Perry Warren",
+      "voter_id": "~{\"name\": \"Perry Warren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aerion Abney",
+      "voter_id": "~{\"name\": \"Aerion Abney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Brennan",
+      "voter_id": "~{\"name\": \"Tim Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan Cephas",
+      "voter_id": "~{\"name\": \"Morgan Cephas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Malagari",
+      "voter_id": "~{\"name\": \"Steven Malagari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Merski",
+      "voter_id": "~{\"name\": \"Robert Merski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Munroe",
+      "voter_id": "~{\"name\": \"Brian Munroe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darisha K. Parker",
+      "voter_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christina Sappey",
+      "voter_id": "~{\"name\": \"Christina Sappey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Schlossberg",
+      "voter_id": "~{\"name\": \"Michael Schlossberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Scott",
+      "voter_id": "~{\"name\": \"Greg Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tina Pickett",
+      "voter_id": "~{\"name\": \"Tina Pickett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Aaron Bernstine",
+      "voter_id": "~{\"name\": \"Aaron Bernstine\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ann Flood",
+      "voter_id": "~{\"name\": \"Ann Flood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jonathan Fritz",
+      "voter_id": "~{\"name\": \"Jonathan Fritz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Keith Greiner",
+      "voter_id": "~{\"name\": \"Keith Greiner\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Robert Leadbeter",
+      "voter_id": "~{\"name\": \"Robert Leadbeter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Eric Nelson",
+      "voter_id": "~{\"name\": \"Eric Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jeff Olsommer",
+      "voter_id": "~{\"name\": \"Jeff Olsommer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Louis Schmitt",
+      "voter_id": "~{\"name\": \"Louis Schmitt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dane Watro",
+      "voter_id": "~{\"name\": \"Dane Watro\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "David Zimmerman",
+      "voter_id": "~{\"name\": \"David Zimmerman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=22&rollcallid=100&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=22&rollcallid=100&sessYr=2025&sessInd=0#HB 755"
+}

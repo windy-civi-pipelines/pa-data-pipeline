@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Housing & Community Development): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-05-05T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "4e571380-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 359",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brandon Markosek",
+      "voter_id": "~{\"name\": \"Brandon Markosek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aerion Abney",
+      "voter_id": "~{\"name\": \"Aerion Abney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amen Brown",
+      "voter_id": "~{\"name\": \"Amen Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan Cephas",
+      "voter_id": "~{\"name\": \"Morgan Cephas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "G. Roni Green",
+      "voter_id": "~{\"name\": \"G. Roni Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Krajewski",
+      "voter_id": "~{\"name\": \"Rick Krajewski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dave Madsen",
+      "voter_id": "~{\"name\": \"Dave Madsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La'Tasha Mayes",
+      "voter_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Powell",
+      "voter_id": "~{\"name\": \"Lindsay Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Siegel",
+      "voter_id": "~{\"name\": \"Joshua Siegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Smith-Wade-El",
+      "voter_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ben Waxman",
+      "voter_id": "~{\"name\": \"Ben Waxman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rich Irvin",
+      "voter_id": "~{\"name\": \"Rich Irvin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Josh Bashline",
+      "voter_id": "~{\"name\": \"Josh Bashline\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tom Jones",
+      "voter_id": "~{\"name\": \"Tom Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dallas Kephart",
+      "voter_id": "~{\"name\": \"Dallas Kephart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Milou Mackenzie",
+      "voter_id": "~{\"name\": \"Milou Mackenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Abby Major",
+      "voter_id": "~{\"name\": \"Abby Major\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brian Rasel",
+      "voter_id": "~{\"name\": \"Brian Rasel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Leslie Rossi",
+      "voter_id": "~{\"name\": \"Leslie Rossi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jeremy Shaffer",
+      "voter_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kathleen Tomlinson",
+      "voter_id": "~{\"name\": \"Kathleen Tomlinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamie Walsh",
+      "voter_id": "~{\"name\": \"Jamie Walsh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Eric Weaknecht",
+      "voter_id": "~{\"name\": \"Eric Weaknecht\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=64&rollcallid=395&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=64&rollcallid=395&sessYr=2025&sessInd=0#HB 359"
+}

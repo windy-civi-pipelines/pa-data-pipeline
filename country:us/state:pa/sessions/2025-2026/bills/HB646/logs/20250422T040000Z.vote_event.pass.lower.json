@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Transportation): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-04-22T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "bd7523a6-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 646",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ed Neilson",
+      "voter_id": "~{\"name\": \"Ed Neilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bellmon",
+      "voter_id": "~{\"name\": \"Anthony Bellmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manuel Guzman",
+      "voter_id": "~{\"name\": \"Manuel Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph Hohenstein",
+      "voter_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marylouise Isaacson",
+      "voter_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dave Madsen",
+      "voter_id": "~{\"name\": \"Dave Madsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Mcandrew",
+      "voter_id": "~{\"name\": \"Joe Mcandrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullins",
+      "voter_id": "~{\"name\": \"Kyle Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer O'Mara",
+      "voter_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Powell",
+      "voter_id": "~{\"name\": \"Lindsay Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christina Sappey",
+      "voter_id": "~{\"name\": \"Christina Sappey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Siegel",
+      "voter_id": "~{\"name\": \"Joshua Siegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kerry Benninghoff",
+      "voter_id": "~{\"name\": \"Kerry Benninghoff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aaron Bernstine",
+      "voter_id": "~{\"name\": \"Aaron Bernstine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Davanzo",
+      "voter_id": "~{\"name\": \"Eric Davanzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ann Flood",
+      "voter_id": "~{\"name\": \"Ann Flood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hamm",
+      "voter_id": "~{\"name\": \"Joe Hamm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelby Labs",
+      "voter_id": "~{\"name\": \"Shelby Labs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alec Ryncavage",
+      "voter_id": "~{\"name\": \"Alec Ryncavage\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Donna Scheuren",
+      "voter_id": "~{\"name\": \"Donna Scheuren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis Schmitt",
+      "voter_id": "~{\"name\": \"Louis Schmitt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Smith",
+      "voter_id": "~{\"name\": \"Brian Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry A. Stambaugh",
+      "voter_id": "~{\"name\": \"Perry A. Stambaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathleen Tomlinson",
+      "voter_id": "~{\"name\": \"Kathleen Tomlinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gina Curry",
+      "voter_id": "~{\"name\": \"Gina Curry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=38&rollcallid=346&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=38&rollcallid=346&sessYr=2025&sessInd=0#HB 646"
+}

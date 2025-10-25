@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Environmental Resources & Energy",
+    "date": "2025-01-23T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 159"
+}

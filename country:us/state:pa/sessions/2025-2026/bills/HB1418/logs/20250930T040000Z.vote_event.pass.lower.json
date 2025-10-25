@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Game & Fisheries): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-09-30T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "cde2c396-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1418",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Anita Kulik",
+      "voter_id": "~{\"name\": \"Anita Kulik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan Davidson",
+      "voter_id": "~{\"name\": \"Nathan Davidson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Dougherty",
+      "voter_id": "~{\"name\": \"Sean Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Goughnour",
+      "voter_id": "~{\"name\": \"Dan Goughnour\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nancy Guenst",
+      "voter_id": "~{\"name\": \"Nancy Guenst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Harris",
+      "voter_id": "~{\"name\": \"Keith Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph Hohenstein",
+      "voter_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Inglis Iii",
+      "voter_id": "~{\"name\": \"John Inglis Iii\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carol Kazeem",
+      "voter_id": "~{\"name\": \"Carol Kazeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Merski",
+      "voter_id": "~{\"name\": \"Robert Merski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacklyn Rusnock",
+      "voter_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina G. Young",
+      "voter_id": "~{\"name\": \"Regina G. Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Maloney",
+      "voter_id": "~{\"name\": \"David Maloney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Anderson",
+      "voter_id": "~{\"name\": \"Marc Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacob Banta",
+      "voter_id": "~{\"name\": \"Jacob Banta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bud Cook",
+      "voter_id": "~{\"name\": \"Bud Cook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Davanzo",
+      "voter_id": "~{\"name\": \"Eric Davanzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Kerwin",
+      "voter_id": "~{\"name\": \"Joe Kerwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Kuzma",
+      "voter_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelby Labs",
+      "voter_id": "~{\"name\": \"Shelby Labs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Olsommer",
+      "voter_id": "~{\"name\": \"Jeff Olsommer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Reichard",
+      "voter_id": "~{\"name\": \"Chad Reichard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Smith",
+      "voter_id": "~{\"name\": \"Brian Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parke Wentling",
+      "voter_id": "~{\"name\": \"Parke Wentling\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=18&rollcallid=1147&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=18&rollcallid=1147&sessYr=2025&sessInd=0#HB 1418"
+}

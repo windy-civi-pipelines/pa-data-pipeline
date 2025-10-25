@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Consumer Protection, Technology & Utilities): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-05-06T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "77863506-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 463",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Danilo Burgos",
+      "voter_id": "~{\"name\": \"Danilo Burgos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Benham",
+      "voter_id": "~{\"name\": \"Jessica Benham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan Cephas",
+      "voter_id": "~{\"name\": \"Morgan Cephas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pat Gallagher",
+      "voter_id": "~{\"name\": \"Pat Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph Hohenstein",
+      "voter_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marylouise Isaacson",
+      "voter_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Malagari",
+      "voter_id": "~{\"name\": \"Steven Malagari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullins",
+      "voter_id": "~{\"name\": \"Kyle Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Munroe",
+      "voter_id": "~{\"name\": \"Brian Munroe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Napoleon J. Nelson",
+      "voter_id": "~{\"name\": \"Napoleon J. Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Pielli",
+      "voter_id": "~{\"name\": \"Chris Pielli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carl Metzgar",
+      "voter_id": "~{\"name\": \"Carl Metzgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hogan",
+      "voter_id": "~{\"name\": \"Joe Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Kail",
+      "voter_id": "~{\"name\": \"Joshua Kail\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rob Kauffman",
+      "voter_id": "~{\"name\": \"Rob Kauffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abby Major",
+      "voter_id": "~{\"name\": \"Abby Major\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Mehaffie",
+      "voter_id": "~{\"name\": \"Thomas Mehaffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Natalie Mihalek",
+      "voter_id": "~{\"name\": \"Natalie Mihalek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alec Ryncavage",
+      "voter_id": "~{\"name\": \"Alec Ryncavage\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathleen Tomlinson",
+      "voter_id": "~{\"name\": \"Kathleen Tomlinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Warner",
+      "voter_id": "~{\"name\": \"Ryan Warner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Craig Williams",
+      "voter_id": "~{\"name\": \"Craig Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=63&rollcallid=420&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=63&rollcallid=420&sessYr=2025&sessInd=0#HB 463"
+}

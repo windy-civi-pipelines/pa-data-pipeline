@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Energy): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-03-17T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "c1c47b3c-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 660",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Fiedler",
+      "voter_id": "~{\"name\": \"Elizabeth Fiedler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amen Brown",
+      "voter_id": "~{\"name\": \"Amen Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Cerrato",
+      "voter_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan Davidson",
+      "voter_id": "~{\"name\": \"Nathan Davidson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Friel",
+      "voter_id": "~{\"name\": \"Paul Friel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jose Giral",
+      "voter_id": "~{\"name\": \"Jose Giral\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Inglis Iii",
+      "voter_id": "~{\"name\": \"John Inglis Iii\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Mcandrew",
+      "voter_id": "~{\"name\": \"Joe Mcandrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Pielli",
+      "voter_id": "~{\"name\": \"Chris Pielli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacklyn Rusnock",
+      "voter_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin Causer",
+      "voter_id": "~{\"name\": \"Martin Causer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Armanini",
+      "voter_id": "~{\"name\": \"Mike Armanini\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Barton",
+      "voter_id": "~{\"name\": \"Jamie Barton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bud Cook",
+      "voter_id": "~{\"name\": \"Bud Cook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hamm",
+      "voter_id": "~{\"name\": \"Joe Hamm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Kail",
+      "voter_id": "~{\"name\": \"Joshua Kail\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dallas Kephart",
+      "voter_id": "~{\"name\": \"Dallas Kephart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Natalie Mihalek",
+      "voter_id": "~{\"name\": \"Natalie Mihalek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathy Rapp",
+      "voter_id": "~{\"name\": \"Kathy Rapp\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry A. Stambaugh",
+      "voter_id": "~{\"name\": \"Perry A. Stambaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Warner",
+      "voter_id": "~{\"name\": \"Ryan Warner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Craig Williams",
+      "voter_id": "~{\"name\": \"Craig Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=69&rollcallid=125&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=69&rollcallid=125&sessYr=2025&sessInd=0#HB 660"
+}

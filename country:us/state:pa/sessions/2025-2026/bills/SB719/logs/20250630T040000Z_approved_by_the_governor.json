@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by the Governor",
+    "date": "2025-06-30T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 719"
+}

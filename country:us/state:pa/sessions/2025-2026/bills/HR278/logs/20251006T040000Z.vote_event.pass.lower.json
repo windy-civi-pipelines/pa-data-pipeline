@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Intergovernmental Affairs & Operations): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-10-06T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "d78d8d1c-b152-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HR 278",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Delloso",
+      "voter_id": "~{\"name\": \"David Delloso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andre Carroll",
+      "voter_id": "~{\"name\": \"Andre Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johanny Cepeda-Freytiz",
+      "voter_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan Davidson",
+      "voter_id": "~{\"name\": \"Nathan Davidson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Dougherty",
+      "voter_id": "~{\"name\": \"Sean Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Goughnour",
+      "voter_id": "~{\"name\": \"Dan Goughnour\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dave Madsen",
+      "voter_id": "~{\"name\": \"Dave Madsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Miller",
+      "voter_id": "~{\"name\": \"Dan Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikki Rivera",
+      "voter_id": "~{\"name\": \"Nikki Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacklyn Rusnock",
+      "voter_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abigail Salisbury",
+      "voter_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Craig Staats",
+      "voter_id": "~{\"name\": \"Craig Staats\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamie Barton",
+      "voter_id": "~{\"name\": \"Jamie Barton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Aaron Bernstine",
+      "voter_id": "~{\"name\": \"Aaron Bernstine\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephanie Borowicz",
+      "voter_id": "~{\"name\": \"Stephanie Borowicz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wendy Fink",
+      "voter_id": "~{\"name\": \"Wendy Fink\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mike Jones",
+      "voter_id": "~{\"name\": \"Mike Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Abby Major",
+      "voter_id": "~{\"name\": \"Abby Major\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Steven Mentzer",
+      "voter_id": "~{\"name\": \"Steven Mentzer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jeff Olsommer",
+      "voter_id": "~{\"name\": \"Jeff Olsommer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brian Rasel",
+      "voter_id": "~{\"name\": \"Brian Rasel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Donna Scheuren",
+      "voter_id": "~{\"name\": \"Donna Scheuren\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=71&rollcallid=1219&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=71&rollcallid=1219&sessYr=2025&sessInd=0#HR 278"
+}

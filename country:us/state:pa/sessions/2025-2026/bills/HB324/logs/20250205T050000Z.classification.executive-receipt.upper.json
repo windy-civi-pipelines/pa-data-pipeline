@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Presented to the Governor",
+    "date": "2025-02-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 324"
+}

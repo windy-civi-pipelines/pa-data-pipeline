@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Local Government): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-04-09T04:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "320d0ed6-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 990",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brett Miller",
+      "voter_id": "~{\"name\": \"Brett Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacob Banta",
+      "voter_id": "~{\"name\": \"Jacob Banta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wendy Fink",
+      "voter_id": "~{\"name\": \"Wendy Fink\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Flick",
+      "voter_id": "~{\"name\": \"Jamie Flick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Jones",
+      "voter_id": "~{\"name\": \"Tom Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roman Kozak",
+      "voter_id": "~{\"name\": \"Roman Kozak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Kuzma",
+      "voter_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Reichard",
+      "voter_id": "~{\"name\": \"Chad Reichard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alec Ryncavage",
+      "voter_id": "~{\"name\": \"Alec Ryncavage\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dane Watro",
+      "voter_id": "~{\"name\": \"Dane Watro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Weaknecht",
+      "voter_id": "~{\"name\": \"Eric Weaknecht\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parke Wentling",
+      "voter_id": "~{\"name\": \"Parke Wentling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Robert Freeman",
+      "voter_id": "~{\"name\": \"Robert Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Justin Fleming",
+      "voter_id": "~{\"name\": \"Justin Fleming\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Liz Hanbidge",
+      "voter_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carol Kazeem",
+      "voter_id": "~{\"name\": \"Carol Kazeem\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dave Madsen",
+      "voter_id": "~{\"name\": \"Dave Madsen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brian Munroe",
+      "voter_id": "~{\"name\": \"Brian Munroe\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jim Prokopiak",
+      "voter_id": "~{\"name\": \"Jim Prokopiak\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Abigail Salisbury",
+      "voter_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christina Sappey",
+      "voter_id": "~{\"name\": \"Christina Sappey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ismail Smith-Wade-El",
+      "voter_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=30&rollcallid=334&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=30&rollcallid=334&sessYr=2025&sessInd=0#HB 990"
+}

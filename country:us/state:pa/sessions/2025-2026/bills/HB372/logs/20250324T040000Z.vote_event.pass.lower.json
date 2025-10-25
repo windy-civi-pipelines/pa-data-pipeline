@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Aging & Older Adult Services): Report Bill As Amended",
+  "motion_classification": [],
+  "start_date": "2025-03-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "52cb14d4-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 372",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Maureen Madden",
+      "voter_id": "~{\"name\": \"Maureen Madden\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Benham",
+      "voter_id": "~{\"name\": \"Jessica Benham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andre Carroll",
+      "voter_id": "~{\"name\": \"Andre Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Cerrato",
+      "voter_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Harris",
+      "voter_id": "~{\"name\": \"Keith Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarik Khan",
+      "voter_id": "~{\"name\": \"Tarik Khan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leanne Krueger",
+      "voter_id": "~{\"name\": \"Leanne Krueger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darisha K. Parker",
+      "voter_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Powell",
+      "voter_id": "~{\"name\": \"Lindsay Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Prokopiak",
+      "voter_id": "~{\"name\": \"Jim Prokopiak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikki Rivera",
+      "voter_id": "~{\"name\": \"Nikki Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Smith-Wade-El",
+      "voter_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Mentzer",
+      "voter_id": "~{\"name\": \"Steven Mentzer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marla Brown",
+      "voter_id": "~{\"name\": \"Marla Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barbara Gleim",
+      "voter_id": "~{\"name\": \"Barbara Gleim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Jones",
+      "voter_id": "~{\"name\": \"Mike Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roman Kozak",
+      "voter_id": "~{\"name\": \"Roman Kozak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelby Labs",
+      "voter_id": "~{\"name\": \"Shelby Labs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Marcell",
+      "voter_id": "~{\"name\": \"Kristin Marcell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Nelson",
+      "voter_id": "~{\"name\": \"Eric Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brenda Pugh",
+      "voter_id": "~{\"name\": \"Brenda Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Rasel",
+      "voter_id": "~{\"name\": \"Brian Rasel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Schlegel",
+      "voter_id": "~{\"name\": \"John Schlegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joanne Stehr",
+      "voter_id": "~{\"name\": \"Joanne Stehr\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=32&rollcallid=196&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=32&rollcallid=196&sessYr=2025&sessInd=0#HB 372"
+}

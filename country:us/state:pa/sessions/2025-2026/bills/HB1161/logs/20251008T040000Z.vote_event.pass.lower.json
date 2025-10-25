@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Professional Licensure): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-10-08T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "6fe091ec-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1161",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Frank Burns",
+      "voter_id": "~{\"name\": \"Frank Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan Davidson",
+      "voter_id": "~{\"name\": \"Nathan Davidson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pat Gallagher",
+      "voter_id": "~{\"name\": \"Pat Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nancy Guenst",
+      "voter_id": "~{\"name\": \"Nancy Guenst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manuel Guzman",
+      "voter_id": "~{\"name\": \"Manuel Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Malcolm Kenyatta",
+      "voter_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Malagari",
+      "voter_id": "~{\"name\": \"Steven Malagari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Merski",
+      "voter_id": "~{\"name\": \"Robert Merski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Miller",
+      "voter_id": "~{\"name\": \"Dan Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullins",
+      "voter_id": "~{\"name\": \"Kyle Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Munroe",
+      "voter_id": "~{\"name\": \"Brian Munroe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Smith-Wade-El",
+      "voter_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Emrick",
+      "voter_id": "~{\"name\": \"Joe Emrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Armanini",
+      "voter_id": "~{\"name\": \"Mike Armanini\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryan Cutler",
+      "voter_id": "~{\"name\": \"Bryan Cutler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torren Ecker",
+      "voter_id": "~{\"name\": \"Torren Ecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Valerie Gaydos",
+      "voter_id": "~{\"name\": \"Valerie Gaydos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Kuzma",
+      "voter_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary Mako",
+      "voter_id": "~{\"name\": \"Zachary Mako\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Marcell",
+      "voter_id": "~{\"name\": \"Kristin Marcell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Mehaffie",
+      "voter_id": "~{\"name\": \"Thomas Mehaffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Donna Scheuren",
+      "voter_id": "~{\"name\": \"Donna Scheuren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathleen Tomlinson",
+      "voter_id": "~{\"name\": \"Kathleen Tomlinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dane Watro",
+      "voter_id": "~{\"name\": \"Dane Watro\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=34&rollcallid=1259&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=34&rollcallid=1259&sessYr=2025&sessInd=0#HB 1161"
+}

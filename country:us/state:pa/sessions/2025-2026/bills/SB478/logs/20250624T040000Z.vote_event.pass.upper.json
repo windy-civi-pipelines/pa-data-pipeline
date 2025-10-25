@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Community, Economic & Recreational Development): Reported as Amended",
+  "motion_classification": [],
+  "start_date": "2025-06-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "15622ebc-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 478",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Fontana",
+      "voter_id": "~{\"name\": \"Wayne Fontana\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patty Kim",
+      "voter_id": "~{\"name\": \"Patty Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Miller",
+      "voter_id": "~{\"name\": \"Nick Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick Stefano",
+      "voter_id": "~{\"name\": \"Patrick Stefano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Williams",
+      "voter_id": "~{\"name\": \"Anthony Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jarrett Coleman",
+      "voter_id": "~{\"name\": \"Jarrett Coleman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=346&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=346&sessYr=2025&sessInd=0#SB 478"
+}

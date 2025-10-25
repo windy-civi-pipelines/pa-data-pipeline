@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Tourism, Recreation & Economic Development): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-04-23T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "bff3678a-b152-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HR 204",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mary Jo Daley",
+      "voter_id": "~{\"name\": \"Mary Jo Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bellmon",
+      "voter_id": "~{\"name\": \"Anthony Bellmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Brennan",
+      "voter_id": "~{\"name\": \"Tim Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johanny Cepeda-Freytiz",
+      "voter_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Cerrato",
+      "voter_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Powell",
+      "voter_id": "~{\"name\": \"Lindsay Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Prokopiak",
+      "voter_id": "~{\"name\": \"Jim Prokopiak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikki Rivera",
+      "voter_id": "~{\"name\": \"Nikki Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacklyn Rusnock",
+      "voter_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Takac",
+      "voter_id": "~{\"name\": \"Paul Takac\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina G. Young",
+      "voter_id": "~{\"name\": \"Regina G. Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Jones",
+      "voter_id": "~{\"name\": \"Tom Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parke Wentling",
+      "voter_id": "~{\"name\": \"Parke Wentling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "R. Lee James",
+      "voter_id": "~{\"name\": \"R. Lee James\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mike Armanini",
+      "voter_id": "~{\"name\": \"Mike Armanini\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jacob Banta",
+      "voter_id": "~{\"name\": \"Jacob Banta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scott Barger",
+      "voter_id": "~{\"name\": \"Scott Barger\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bud Cook",
+      "voter_id": "~{\"name\": \"Bud Cook\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jill Cooper",
+      "voter_id": "~{\"name\": \"Jill Cooper\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamie Flick",
+      "voter_id": "~{\"name\": \"Jamie Flick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tina Pickett",
+      "voter_id": "~{\"name\": \"Tina Pickett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brian Smith",
+      "voter_id": "~{\"name\": \"Brian Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tim Twardzik",
+      "voter_id": "~{\"name\": \"Tim Twardzik\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=65&rollcallid=372&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=65&rollcallid=372&sessYr=2025&sessInd=0#HR 204"
+}

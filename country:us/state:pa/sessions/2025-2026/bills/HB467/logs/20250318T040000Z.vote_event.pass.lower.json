@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Liquor Control): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-03-18T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "7a73da20-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 467",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Daniel Deasy",
+      "voter_id": "~{\"name\": \"Daniel Deasy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Benham",
+      "voter_id": "~{\"name\": \"Jessica Benham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amen Brown",
+      "voter_id": "~{\"name\": \"Amen Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tina Davis",
+      "voter_id": "~{\"name\": \"Tina Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jose Giral",
+      "voter_id": "~{\"name\": \"Jose Giral\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manuel Guzman",
+      "voter_id": "~{\"name\": \"Manuel Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marylouise Isaacson",
+      "voter_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Malcolm Kenyatta",
+      "voter_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Malagari",
+      "voter_id": "~{\"name\": \"Steven Malagari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Mcandrew",
+      "voter_id": "~{\"name\": \"Joe Mcandrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danielle Friel Otten",
+      "voter_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Powell",
+      "voter_id": "~{\"name\": \"Lindsay Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abigail Salisbury",
+      "voter_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mindy Fee",
+      "voter_id": "~{\"name\": \"Mindy Fee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Armanini",
+      "voter_id": "~{\"name\": \"Mike Armanini\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jonathan Fritz",
+      "voter_id": "~{\"name\": \"Jonathan Fritz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Valerie Gaydos",
+      "voter_id": "~{\"name\": \"Valerie Gaydos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Leadbeter",
+      "voter_id": "~{\"name\": \"Robert Leadbeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abby Major",
+      "voter_id": "~{\"name\": \"Abby Major\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Mehaffie",
+      "voter_id": "~{\"name\": \"Thomas Mehaffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Natalie Mihalek",
+      "voter_id": "~{\"name\": \"Natalie Mihalek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marci Mustello",
+      "voter_id": "~{\"name\": \"Marci Mustello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Rigby",
+      "voter_id": "~{\"name\": \"Jim Rigby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Smith",
+      "voter_id": "~{\"name\": \"Brian Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joanne Stehr",
+      "voter_id": "~{\"name\": \"Joanne Stehr\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=28&rollcallid=166&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=28&rollcallid=166&sessYr=2025&sessInd=0#HB 467"
+}

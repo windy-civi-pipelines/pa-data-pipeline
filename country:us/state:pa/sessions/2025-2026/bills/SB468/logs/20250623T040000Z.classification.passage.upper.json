@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third consideration and final passage",
+    "date": "2025-06-23T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 468"
+}

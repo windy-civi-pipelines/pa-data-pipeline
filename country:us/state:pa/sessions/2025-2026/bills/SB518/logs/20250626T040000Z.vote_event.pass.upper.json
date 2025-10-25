@@ -1,0 +1,138 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Rules & Executive Nominations): Re-Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-26T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "20c4ca9e-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 518",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jay Costa",
+      "voter_id": "~{\"name\": \"Jay Costa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vincent Hughes",
+      "voter_id": "~{\"name\": \"Vincent Hughes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Miller",
+      "voter_id": "~{\"name\": \"Nick Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Rothman",
+      "voter_id": "~{\"name\": \"Greg Rothman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick Stefano",
+      "voter_id": "~{\"name\": \"Patrick Stefano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Tartaglione",
+      "voter_id": "~{\"name\": \"Christine Tartaglione\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Pittman",
+      "voter_id": "~{\"name\": \"Joe Pittman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=17&rollcallid=403&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=17&rollcallid=403&sessYr=2025&sessInd=0#SB 518"
+}

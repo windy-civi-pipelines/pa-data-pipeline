@@ -1,0 +1,258 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Appropriations): Re-report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-07-07T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "a032e14c-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1319",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jordan Harris",
+      "voter_id": "~{\"name\": \"Jordan Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aerion Abney",
+      "voter_id": "~{\"name\": \"Aerion Abney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bellmon",
+      "voter_id": "~{\"name\": \"Anthony Bellmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Brennan",
+      "voter_id": "~{\"name\": \"Tim Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gina Curry",
+      "voter_id": "~{\"name\": \"Gina Curry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Fleming",
+      "voter_id": "~{\"name\": \"Justin Fleming\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Friel",
+      "voter_id": "~{\"name\": \"Paul Friel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pat Gallagher",
+      "voter_id": "~{\"name\": \"Pat Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manuel Guzman",
+      "voter_id": "~{\"name\": \"Manuel Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarik Khan",
+      "voter_id": "~{\"name\": \"Tarik Khan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Kinkead",
+      "voter_id": "~{\"name\": \"Emily Kinkead\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dave Madsen",
+      "voter_id": "~{\"name\": \"Dave Madsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Malagari",
+      "voter_id": "~{\"name\": \"Steven Malagari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La'Tasha Mayes",
+      "voter_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullins",
+      "voter_id": "~{\"name\": \"Kyle Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abigail Salisbury",
+      "voter_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benjamin Sanchez",
+      "voter_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Siegel",
+      "voter_id": "~{\"name\": \"Joshua Siegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ben Waxman",
+      "voter_id": "~{\"name\": \"Ben Waxman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Webster",
+      "voter_id": "~{\"name\": \"Joe Webster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina G. Young",
+      "voter_id": "~{\"name\": \"Regina G. Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Struzzi",
+      "voter_id": "~{\"name\": \"James Struzzi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Barton",
+      "voter_id": "~{\"name\": \"Jamie Barton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marla Brown",
+      "voter_id": "~{\"name\": \"Marla Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Davanzo",
+      "voter_id": "~{\"name\": \"Eric Davanzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torren Ecker",
+      "voter_id": "~{\"name\": \"Torren Ecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ann Flood",
+      "voter_id": "~{\"name\": \"Ann Flood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Kail",
+      "voter_id": "~{\"name\": \"Joshua Kail\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charity Krupa",
+      "voter_id": "~{\"name\": \"Charity Krupa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary Mako",
+      "voter_id": "~{\"name\": \"Zachary Mako\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Marcell",
+      "voter_id": "~{\"name\": \"Kristin Marcell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marci Mustello",
+      "voter_id": "~{\"name\": \"Marci Mustello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Nelson",
+      "voter_id": "~{\"name\": \"Eric Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Olsommer",
+      "voter_id": "~{\"name\": \"Jeff Olsommer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Warner",
+      "voter_id": "~{\"name\": \"Ryan Warner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 37
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=1027&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=1027&sessYr=2025&sessInd=0#HB 1319"
+}

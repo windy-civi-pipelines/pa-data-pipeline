@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Local Government): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-05-13T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "dba67b9c-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 311",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lynda Schlegel Culver",
+      "voter_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Hutchinson",
+      "voter_id": "~{\"name\": \"Scott Hutchinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Malone",
+      "voter_id": "~{\"name\": \"James Malone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dawn Keefer",
+      "voter_id": "~{\"name\": \"Dawn Keefer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carolyn Comitta",
+      "voter_id": "~{\"name\": \"Carolyn Comitta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Patty Kim",
+      "voter_id": "~{\"name\": \"Patty Kim\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=15&rollcallid=182&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=15&rollcallid=182&sessYr=2025&sessInd=0#SB 311"
+}

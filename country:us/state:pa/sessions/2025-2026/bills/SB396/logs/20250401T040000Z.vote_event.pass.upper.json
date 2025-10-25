@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Finance): Reported as Amended",
+  "motion_classification": [],
+  "start_date": "2025-04-01T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "f41d8350-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 396",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jarrett Coleman",
+      "voter_id": "~{\"name\": \"Jarrett Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Fontana",
+      "voter_id": "~{\"name\": \"Wayne Fontana\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Pisciottano",
+      "voter_id": "~{\"name\": \"Nick Pisciottano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Rothman",
+      "voter_id": "~{\"name\": \"Greg Rothman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Hutchinson",
+      "voter_id": "~{\"name\": \"Scott Hutchinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=25&rollcallid=87&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=25&rollcallid=87&sessYr=2025&sessInd=0#SB 396"
+}

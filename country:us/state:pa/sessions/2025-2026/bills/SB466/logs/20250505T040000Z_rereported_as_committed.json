@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-reported as committed",
+    "date": "2025-05-05T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 466"
+}

@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Communications & Technology): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-05-06T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "eda15588-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 376",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lisa Baker",
+      "voter_id": "~{\"name\": \"Lisa Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Boscola",
+      "voter_id": "~{\"name\": \"Lisa Boscola\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Kane",
+      "voter_id": "~{\"name\": \"John Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Malone",
+      "voter_id": "~{\"name\": \"James Malone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Miller",
+      "voter_id": "~{\"name\": \"Nick Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Phillips-Hill",
+      "voter_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Picozzi",
+      "voter_id": "~{\"name\": \"Joe Picozzi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=123&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=123&sessYr=2025&sessInd=0#SB 376"
+}

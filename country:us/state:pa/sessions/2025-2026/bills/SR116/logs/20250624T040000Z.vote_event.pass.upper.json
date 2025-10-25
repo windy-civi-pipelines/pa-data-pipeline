@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Veterans Affairs & Emergency Preparedness): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "c79eea34-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SR 116",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lisa Baker",
+      "voter_id": "~{\"name\": \"Lisa Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Kane",
+      "voter_id": "~{\"name\": \"John Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Pisciottano",
+      "voter_id": "~{\"name\": \"Nick Pisciottano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Williams",
+      "voter_id": "~{\"name\": \"Lindsey Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=21&rollcallid=329&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=21&rollcallid=329&sessYr=2025&sessInd=0#SR 116"
+}

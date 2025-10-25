@@ -1,0 +1,336 @@
+{
+  "identifier": "",
+  "motion_text": "BROOKS AMENDMENT NO. A-1930",
+  "motion_classification": [],
+  "start_date": "2025-10-21T20:50:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "1c90e868-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 507",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Baker",
+      "voter_id": "~{\"name\": \"Lisa Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Boscola",
+      "voter_id": "~{\"name\": \"Lisa Boscola\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Amanda Cappelletti",
+      "voter_id": "~{\"name\": \"Amanda Cappelletti\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jarrett Coleman",
+      "voter_id": "~{\"name\": \"Jarrett Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carolyn Comitta",
+      "voter_id": "~{\"name\": \"Carolyn Comitta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jay Costa",
+      "voter_id": "~{\"name\": \"Jay Costa\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lynda Schlegel Culver",
+      "voter_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marty Flynn",
+      "voter_id": "~{\"name\": \"Marty Flynn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wayne Fontana",
+      "voter_id": "~{\"name\": \"Wayne Fontana\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Vincent Hughes",
+      "voter_id": "~{\"name\": \"Vincent Hughes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Hutchinson",
+      "voter_id": "~{\"name\": \"Scott Hutchinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "John Kane",
+      "voter_id": "~{\"name\": \"John Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dawn Keefer",
+      "voter_id": "~{\"name\": \"Dawn Keefer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Patty Kim",
+      "voter_id": "~{\"name\": \"Patty Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "James Malone",
+      "voter_id": "~{\"name\": \"James Malone\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scott Martin",
+      "voter_id": "~{\"name\": \"Scott Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nick Miller",
+      "voter_id": "~{\"name\": \"Nick Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kristin Phillips-Hill",
+      "voter_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Joe Picozzi",
+      "voter_id": "~{\"name\": \"Joe Picozzi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nick Pisciottano",
+      "voter_id": "~{\"name\": \"Nick Pisciottano\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Joe Pittman",
+      "voter_id": "~{\"name\": \"Joe Pittman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Rothman",
+      "voter_id": "~{\"name\": \"Greg Rothman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nikil Saval",
+      "voter_id": "~{\"name\": \"Nikil Saval\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Judith Schwank",
+      "voter_id": "~{\"name\": \"Judith Schwank\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Patrick Stefano",
+      "voter_id": "~{\"name\": \"Patrick Stefano\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sharif Street",
+      "voter_id": "~{\"name\": \"Sharif Street\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christine Tartaglione",
+      "voter_id": "~{\"name\": \"Christine Tartaglione\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Elder Vogel",
+      "voter_id": "~{\"name\": \"Elder Vogel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Anthony Williams",
+      "voter_id": "~{\"name\": \"Anthony Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey Williams",
+      "voter_id": "~{\"name\": \"Lindsey Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 44
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=247",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=247#SB 507"
+}

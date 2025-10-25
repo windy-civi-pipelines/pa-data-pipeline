@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Education): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-05-07T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "a2b2da9e-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1326",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Peter Schweyer",
+      "voter_id": "~{\"name\": \"Peter Schweyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aerion Abney",
+      "voter_id": "~{\"name\": \"Aerion Abney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gina Curry",
+      "voter_id": "~{\"name\": \"Gina Curry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Friel",
+      "voter_id": "~{\"name\": \"Paul Friel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marylouise Isaacson",
+      "voter_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carol Kazeem",
+      "voter_id": "~{\"name\": \"Carol Kazeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Napoleon J. Nelson",
+      "voter_id": "~{\"name\": \"Napoleon J. Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer O'Mara",
+      "voter_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danielle Friel Otten",
+      "voter_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Prokopiak",
+      "voter_id": "~{\"name\": \"Jim Prokopiak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Smith-Wade-El",
+      "voter_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Takac",
+      "voter_id": "~{\"name\": \"Paul Takac\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina G. Young",
+      "voter_id": "~{\"name\": \"Regina G. Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryan Cutler",
+      "voter_id": "~{\"name\": \"Bryan Cutler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Anderson",
+      "voter_id": "~{\"name\": \"Marc Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jill Cooper",
+      "voter_id": "~{\"name\": \"Jill Cooper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph D'Orsie",
+      "voter_id": "~{\"name\": \"Joseph D'Orsie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barbara Gleim",
+      "voter_id": "~{\"name\": \"Barbara Gleim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roman Kozak",
+      "voter_id": "~{\"name\": \"Roman Kozak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Milou Mackenzie",
+      "voter_id": "~{\"name\": \"Milou Mackenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jason Ortitay",
+      "voter_id": "~{\"name\": \"Jason Ortitay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Rasel",
+      "voter_id": "~{\"name\": \"Brian Rasel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Schlegel",
+      "voter_id": "~{\"name\": \"John Schlegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephenie Scialabba",
+      "voter_id": "~{\"name\": \"Stephenie Scialabba\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dane Watro",
+      "voter_id": "~{\"name\": \"Dane Watro\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=473&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=473&sessYr=2025&sessInd=0#HB 1326"
+}

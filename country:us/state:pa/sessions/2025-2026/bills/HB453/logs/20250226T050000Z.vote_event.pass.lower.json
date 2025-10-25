@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Veterans Affairs & Emergency Preparedness): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-02-26T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "73b0e458-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 453",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jared Solomon",
+      "voter_id": "~{\"name\": \"Jared Solomon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amen Brown",
+      "voter_id": "~{\"name\": \"Amen Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Dougherty",
+      "voter_id": "~{\"name\": \"Sean Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nancy Guenst",
+      "voter_id": "~{\"name\": \"Nancy Guenst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Inglis Iii",
+      "voter_id": "~{\"name\": \"John Inglis Iii\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Munroe",
+      "voter_id": "~{\"name\": \"Brian Munroe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer O'Mara",
+      "voter_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Pielli",
+      "voter_id": "~{\"name\": \"Chris Pielli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christina Sappey",
+      "voter_id": "~{\"name\": \"Christina Sappey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Scott",
+      "voter_id": "~{\"name\": \"Greg Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Takac",
+      "voter_id": "~{\"name\": \"Paul Takac\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Webster",
+      "voter_id": "~{\"name\": \"Joe Webster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Gillen",
+      "voter_id": "~{\"name\": \"Mark Gillen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacob Banta",
+      "voter_id": "~{\"name\": \"Jacob Banta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Bashline",
+      "voter_id": "~{\"name\": \"Josh Bashline\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jill Cooper",
+      "voter_id": "~{\"name\": \"Jill Cooper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hamm",
+      "voter_id": "~{\"name\": \"Joe Hamm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Kerwin",
+      "voter_id": "~{\"name\": \"Joe Kerwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charity Krupa",
+      "voter_id": "~{\"name\": \"Charity Krupa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abby Major",
+      "voter_id": "~{\"name\": \"Abby Major\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Rigby",
+      "voter_id": "~{\"name\": \"Jim Rigby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Stender",
+      "voter_id": "~{\"name\": \"Michael Stender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dane Watro",
+      "voter_id": "~{\"name\": \"Dane Watro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Craig Williams",
+      "voter_id": "~{\"name\": \"Craig Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=42&rollcallid=83&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=42&rollcallid=83&sessYr=2025&sessInd=0#HB 453"
+}

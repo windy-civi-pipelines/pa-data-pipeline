@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Banking & Insurance): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "1627e6ce-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 211",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lisa Baker",
+      "voter_id": "~{\"name\": \"Lisa Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Boscola",
+      "voter_id": "~{\"name\": \"Lisa Boscola\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marty Flynn",
+      "voter_id": "~{\"name\": \"Marty Flynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patty Kim",
+      "voter_id": "~{\"name\": \"Patty Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Martin",
+      "voter_id": "~{\"name\": \"Scott Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Phillips-Hill",
+      "voter_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Rothman",
+      "voter_id": "~{\"name\": \"Greg Rothman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharif Street",
+      "voter_id": "~{\"name\": \"Sharif Street\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elder Vogel",
+      "voter_id": "~{\"name\": \"Elder Vogel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Williams",
+      "voter_id": "~{\"name\": \"Anthony Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=310&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=310&sessYr=2025&sessInd=0#HB 211"
+}

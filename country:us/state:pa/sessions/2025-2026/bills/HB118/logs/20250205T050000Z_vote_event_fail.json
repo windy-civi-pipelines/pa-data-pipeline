@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Labor & Industry): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-02-05T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "fb0a25aa-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 118",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Seth Grove",
+      "voter_id": "~{\"name\": \"Seth Grove\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Anderson",
+      "voter_id": "~{\"name\": \"Marc Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Barger",
+      "voter_id": "~{\"name\": \"Scott Barger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aaron Bernstine",
+      "voter_id": "~{\"name\": \"Aaron Bernstine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jill Cooper",
+      "voter_id": "~{\"name\": \"Jill Cooper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph D'Orsie",
+      "voter_id": "~{\"name\": \"Joseph D'Orsie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torren Ecker",
+      "voter_id": "~{\"name\": \"Torren Ecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wendy Fink",
+      "voter_id": "~{\"name\": \"Wendy Fink\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barbara Gleim",
+      "voter_id": "~{\"name\": \"Barbara Gleim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Jones",
+      "voter_id": "~{\"name\": \"Mike Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Reichard",
+      "voter_id": "~{\"name\": \"Chad Reichard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leslie Rossi",
+      "voter_id": "~{\"name\": \"Leslie Rossi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jason Dawkins",
+      "voter_id": "~{\"name\": \"Jason Dawkins\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tim Brennan",
+      "voter_id": "~{\"name\": \"Tim Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jose Giral",
+      "voter_id": "~{\"name\": \"Jose Giral\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "G. Roni Green",
+      "voter_id": "~{\"name\": \"G. Roni Green\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jim Haddock",
+      "voter_id": "~{\"name\": \"Jim Haddock\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Emily Kinkead",
+      "voter_id": "~{\"name\": \"Emily Kinkead\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rick Krajewski",
+      "voter_id": "~{\"name\": \"Rick Krajewski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Robert Merski",
+      "voter_id": "~{\"name\": \"Robert Merski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dan Miller",
+      "voter_id": "~{\"name\": \"Dan Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jennifer O'Mara",
+      "voter_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Greg Scott",
+      "voter_id": "~{\"name\": \"Greg Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Joshua Siegel",
+      "voter_id": "~{\"name\": \"Joshua Siegel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Regina G. Young",
+      "voter_id": "~{\"name\": \"Regina G. Young\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=26&rollcallid=59&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=26&rollcallid=59&sessYr=2025&sessInd=0#HB 118"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Aging & Youth",
+    "date": "2025-06-03T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1058"
+}

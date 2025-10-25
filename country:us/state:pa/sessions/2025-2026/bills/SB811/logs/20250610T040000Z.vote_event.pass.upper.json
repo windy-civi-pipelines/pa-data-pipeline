@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Institutional Sustainability & Innovation): Reported as Amended",
+  "motion_classification": [],
+  "start_date": "2025-06-10T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "6cb2b722-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 811",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=235&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=235&sessYr=2025&sessInd=0#SB 811"
+}

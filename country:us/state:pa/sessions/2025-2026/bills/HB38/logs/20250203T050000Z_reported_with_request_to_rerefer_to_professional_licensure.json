@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Reported with request to re-refer to Professional Licensure",
+    "date": "2025-02-03T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 38"
+}

@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Gaming Oversight): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-26T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "7489e4ca-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 840",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Patrick Harkins",
+      "voter_id": "~{\"name\": \"Patrick Harkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andre Carroll",
+      "voter_id": "~{\"name\": \"Andre Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johanny Cepeda-Freytiz",
+      "voter_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Dougherty",
+      "voter_id": "~{\"name\": \"Sean Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Friel",
+      "voter_id": "~{\"name\": \"Paul Friel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pat Gallagher",
+      "voter_id": "~{\"name\": \"Pat Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jose Giral",
+      "voter_id": "~{\"name\": \"Jose Giral\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manuel Guzman",
+      "voter_id": "~{\"name\": \"Manuel Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Harris",
+      "voter_id": "~{\"name\": \"Keith Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Mcandrew",
+      "voter_id": "~{\"name\": \"Joe Mcandrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Merski",
+      "voter_id": "~{\"name\": \"Robert Merski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacklyn Rusnock",
+      "voter_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Scott",
+      "voter_id": "~{\"name\": \"Greg Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hogan",
+      "voter_id": "~{\"name\": \"Joe Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Mehaffie",
+      "voter_id": "~{\"name\": \"Thomas Mehaffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathleen Tomlinson",
+      "voter_id": "~{\"name\": \"Kathleen Tomlinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Craig Williams",
+      "voter_id": "~{\"name\": \"Craig Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Russ Diamond",
+      "voter_id": "~{\"name\": \"Russ Diamond\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kerry Benninghoff",
+      "voter_id": "~{\"name\": \"Kerry Benninghoff\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jonathan Fritz",
+      "voter_id": "~{\"name\": \"Jonathan Fritz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dallas Kephart",
+      "voter_id": "~{\"name\": \"Dallas Kephart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marci Mustello",
+      "voter_id": "~{\"name\": \"Marci Mustello\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Leslie Rossi",
+      "voter_id": "~{\"name\": \"Leslie Rossi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Alec Ryncavage",
+      "voter_id": "~{\"name\": \"Alec Ryncavage\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ryan Warner",
+      "voter_id": "~{\"name\": \"Ryan Warner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=54&rollcallid=950&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=54&rollcallid=950&sessYr=2025&sessInd=0#SB 840"
+}

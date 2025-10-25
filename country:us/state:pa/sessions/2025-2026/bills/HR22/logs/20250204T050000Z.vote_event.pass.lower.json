@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (State Government): Adopt Resolution",
+  "motion_classification": [],
+  "start_date": "2025-02-04T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "85bcbf94-b152-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HR 22",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Carol Hill-Evans",
+      "voter_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Brennan",
+      "voter_id": "~{\"name\": \"Tim Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan Davidson",
+      "voter_id": "~{\"name\": \"Nathan Davidson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "G. Roni Green",
+      "voter_id": "~{\"name\": \"G. Roni Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nancy Guenst",
+      "voter_id": "~{\"name\": \"Nancy Guenst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristine Howard",
+      "voter_id": "~{\"name\": \"Kristine Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Inglis Iii",
+      "voter_id": "~{\"name\": \"John Inglis Iii\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Malcolm Kenyatta",
+      "voter_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarah Probst",
+      "voter_id": "~{\"name\": \"Tarah Probst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benjamin Sanchez",
+      "voter_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ben Waxman",
+      "voter_id": "~{\"name\": \"Ben Waxman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Webster",
+      "voter_id": "~{\"name\": \"Joe Webster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brad Roae",
+      "voter_id": "~{\"name\": \"Brad Roae\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacob Banta",
+      "voter_id": "~{\"name\": \"Jacob Banta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Barger",
+      "voter_id": "~{\"name\": \"Scott Barger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Bonner",
+      "voter_id": "~{\"name\": \"Timothy Bonner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marla Brown",
+      "voter_id": "~{\"name\": \"Marla Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Russ Diamond",
+      "voter_id": "~{\"name\": \"Russ Diamond\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wendy Fink",
+      "voter_id": "~{\"name\": \"Wendy Fink\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roman Kozak",
+      "voter_id": "~{\"name\": \"Roman Kozak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeremy Shaffer",
+      "voter_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Walsh",
+      "voter_id": "~{\"name\": \"Jamie Walsh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Weaknecht",
+      "voter_id": "~{\"name\": \"Eric Weaknecht\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephenie Scialabba",
+      "voter_id": "~{\"name\": \"Stephenie Scialabba\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=36&rollcallid=47&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=36&rollcallid=47&sessYr=2025&sessInd=0#HR 22"
+}

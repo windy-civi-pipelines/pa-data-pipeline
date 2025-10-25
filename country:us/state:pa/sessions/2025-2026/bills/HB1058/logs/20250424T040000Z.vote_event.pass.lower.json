@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Finance): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-04-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "47303b76-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1058",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Steve Samuelson",
+      "voter_id": "~{\"name\": \"Steve Samuelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aerion Abney",
+      "voter_id": "~{\"name\": \"Aerion Abney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johanny Cepeda-Freytiz",
+      "voter_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Fleming",
+      "voter_id": "~{\"name\": \"Justin Fleming\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pat Gallagher",
+      "voter_id": "~{\"name\": \"Pat Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Goughnour",
+      "voter_id": "~{\"name\": \"Dan Goughnour\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Harris",
+      "voter_id": "~{\"name\": \"Keith Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Inglis Iii",
+      "voter_id": "~{\"name\": \"John Inglis Iii\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Krajewski",
+      "voter_id": "~{\"name\": \"Rick Krajewski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christopher Rabb",
+      "voter_id": "~{\"name\": \"Christopher Rabb\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Scott",
+      "voter_id": "~{\"name\": \"Greg Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ben Waxman",
+      "voter_id": "~{\"name\": \"Ben Waxman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Webster",
+      "voter_id": "~{\"name\": \"Joe Webster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Greiner",
+      "voter_id": "~{\"name\": \"Keith Greiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Davanzo",
+      "voter_id": "~{\"name\": \"Eric Davanzo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jonathan Fritz",
+      "voter_id": "~{\"name\": \"Jonathan Fritz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Valerie Gaydos",
+      "voter_id": "~{\"name\": \"Valerie Gaydos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Jones",
+      "voter_id": "~{\"name\": \"Mike Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dallas Kephart",
+      "voter_id": "~{\"name\": \"Dallas Kephart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Kutz",
+      "voter_id": "~{\"name\": \"Thomas Kutz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary Mako",
+      "voter_id": "~{\"name\": \"Zachary Mako\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leslie Rossi",
+      "voter_id": "~{\"name\": \"Leslie Rossi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alec Ryncavage",
+      "voter_id": "~{\"name\": \"Alec Ryncavage\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Perry A. Stambaugh",
+      "voter_id": "~{\"name\": \"Perry A. Stambaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Stender",
+      "voter_id": "~{\"name\": \"Michael Stender\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=16&rollcallid=392&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=16&rollcallid=392&sessYr=2025&sessInd=0#HB 1058"
+}

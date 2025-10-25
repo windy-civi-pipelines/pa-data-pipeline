@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Law & Justice): Motion to Report Defeated",
+  "motion_classification": [],
+  "start_date": "2025-05-13T04:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "7a7e225e-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1200",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Marty Flynn",
+      "voter_id": "~{\"name\": \"Marty Flynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Fontana",
+      "voter_id": "~{\"name\": \"Wayne Fontana\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Tartaglione",
+      "voter_id": "~{\"name\": \"Christine Tartaglione\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Boscola",
+      "voter_id": "~{\"name\": \"Lisa Boscola\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dawn Keefer",
+      "voter_id": "~{\"name\": \"Dawn Keefer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Joe Picozzi",
+      "voter_id": "~{\"name\": \"Joe Picozzi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=29&rollcallid=184&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=29&rollcallid=184&sessYr=2025&sessInd=0#HB 1200"
+}

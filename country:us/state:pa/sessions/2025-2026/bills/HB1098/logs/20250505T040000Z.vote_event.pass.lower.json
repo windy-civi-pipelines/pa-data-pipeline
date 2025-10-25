@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Judiciary): Report Bill As Amended",
+  "motion_classification": [],
+  "start_date": "2025-05-05T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "59ef4b26-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 1098",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tim Briggs",
+      "voter_id": "~{\"name\": \"Tim Briggs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andre Carroll",
+      "voter_id": "~{\"name\": \"Andre Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Donahue",
+      "voter_id": "~{\"name\": \"Kyle Donahue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Liz Hanbidge",
+      "voter_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph Hohenstein",
+      "voter_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristine Howard",
+      "voter_id": "~{\"name\": \"Kristine Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Malcolm Kenyatta",
+      "voter_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Kinkead",
+      "voter_id": "~{\"name\": \"Emily Kinkead\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La'Tasha Mayes",
+      "voter_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Miller",
+      "voter_id": "~{\"name\": \"Dan Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Pielli",
+      "voter_id": "~{\"name\": \"Chris Pielli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christopher Rabb",
+      "voter_id": "~{\"name\": \"Christopher Rabb\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benjamin Sanchez",
+      "voter_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rob Kauffman",
+      "voter_id": "~{\"name\": \"Rob Kauffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Bonner",
+      "voter_id": "~{\"name\": \"Timothy Bonner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephanie Borowicz",
+      "voter_id": "~{\"name\": \"Stephanie Borowicz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torren Ecker",
+      "voter_id": "~{\"name\": \"Torren Ecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hamm",
+      "voter_id": "~{\"name\": \"Joe Hamm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Kail",
+      "voter_id": "~{\"name\": \"Joshua Kail\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Kerwin",
+      "voter_id": "~{\"name\": \"Joe Kerwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kate Klunk",
+      "voter_id": "~{\"name\": \"Kate Klunk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Kuzma",
+      "voter_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Leadbeter",
+      "voter_id": "~{\"name\": \"Robert Leadbeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Rigby",
+      "voter_id": "~{\"name\": \"Jim Rigby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephenie Scialabba",
+      "voter_id": "~{\"name\": \"Stephenie Scialabba\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=407&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=407&sessYr=2025&sessInd=0#HB 1098"
+}

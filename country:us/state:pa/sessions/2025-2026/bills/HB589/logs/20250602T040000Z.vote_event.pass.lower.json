@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Environmental & Natural Resource Protection): Re-refer Bill To Another Committee",
+  "motion_classification": [],
+  "start_date": "2025-06-02T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "aa5cd084-b150-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 589",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Greg Vitali",
+      "voter_id": "~{\"name\": \"Greg Vitali\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amen Brown",
+      "voter_id": "~{\"name\": \"Amen Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Fleming",
+      "voter_id": "~{\"name\": \"Justin Fleming\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph Hohenstein",
+      "voter_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marylouise Isaacson",
+      "voter_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carol Kazeem",
+      "voter_id": "~{\"name\": \"Carol Kazeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danielle Friel Otten",
+      "voter_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Pielli",
+      "voter_id": "~{\"name\": \"Chris Pielli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikki Rivera",
+      "voter_id": "~{\"name\": \"Nikki Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abigail Salisbury",
+      "voter_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua Siegel",
+      "voter_id": "~{\"name\": \"Joshua Siegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Steele",
+      "voter_id": "~{\"name\": \"Mandy Steele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul Takac",
+      "voter_id": "~{\"name\": \"Paul Takac\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Webster",
+      "voter_id": "~{\"name\": \"Joe Webster\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack Rader",
+      "voter_id": "~{\"name\": \"Jack Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Bashline",
+      "voter_id": "~{\"name\": \"Josh Bashline\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Day",
+      "voter_id": "~{\"name\": \"Gary Day\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Flick",
+      "voter_id": "~{\"name\": \"Jamie Flick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "R. Lee James",
+      "voter_id": "~{\"name\": \"R. Lee James\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Mehaffie",
+      "voter_id": "~{\"name\": \"Thomas Mehaffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brenda Pugh",
+      "voter_id": "~{\"name\": \"Brenda Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis Schmitt",
+      "voter_id": "~{\"name\": \"Louis Schmitt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeremy Shaffer",
+      "voter_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Stender",
+      "voter_id": "~{\"name\": \"Michael Stender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Twardzik",
+      "voter_id": "~{\"name\": \"Tim Twardzik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parke Wentling",
+      "voter_id": "~{\"name\": \"Parke Wentling\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=70&rollcallid=590&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=70&rollcallid=590&sessYr=2025&sessInd=0#HB 589"
+}

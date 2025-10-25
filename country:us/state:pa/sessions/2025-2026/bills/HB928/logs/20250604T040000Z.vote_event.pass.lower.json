@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Children & Youth): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2025-06-04T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "1c3fe77c-b151-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HB 928",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jeanne Mcneill",
+      "voter_id": "~{\"name\": \"Jeanne Mcneill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bellmon",
+      "voter_id": "~{\"name\": \"Anthony Bellmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Cerrato",
+      "voter_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gina Curry",
+      "voter_id": "~{\"name\": \"Gina Curry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Fleming",
+      "voter_id": "~{\"name\": \"Justin Fleming\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nancy Guenst",
+      "voter_id": "~{\"name\": \"Nancy Guenst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Liz Hanbidge",
+      "voter_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristine Howard",
+      "voter_id": "~{\"name\": \"Kristine Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carol Kazeem",
+      "voter_id": "~{\"name\": \"Carol Kazeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Krajewski",
+      "voter_id": "~{\"name\": \"Rick Krajewski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Mcandrew",
+      "voter_id": "~{\"name\": \"Joe Mcandrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Napoleon J. Nelson",
+      "voter_id": "~{\"name\": \"Napoleon J. Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darisha K. Parker",
+      "voter_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kate Klunk",
+      "voter_id": "~{\"name\": \"Kate Klunk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Barger",
+      "voter_id": "~{\"name\": \"Scott Barger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Day",
+      "voter_id": "~{\"name\": \"Gary Day\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Flick",
+      "voter_id": "~{\"name\": \"Jamie Flick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Hogan",
+      "voter_id": "~{\"name\": \"Joe Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roman Kozak",
+      "voter_id": "~{\"name\": \"Roman Kozak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Milou Mackenzie",
+      "voter_id": "~{\"name\": \"Milou Mackenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Natalie Mihalek",
+      "voter_id": "~{\"name\": \"Natalie Mihalek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brenda Pugh",
+      "voter_id": "~{\"name\": \"Brenda Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Schlegel",
+      "voter_id": "~{\"name\": \"John Schlegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Walsh",
+      "voter_id": "~{\"name\": \"Jamie Walsh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Zimmerman",
+      "voter_id": "~{\"name\": \"David Zimmerman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=644&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=644&sessYr=2025&sessInd=0#HB 928"
+}

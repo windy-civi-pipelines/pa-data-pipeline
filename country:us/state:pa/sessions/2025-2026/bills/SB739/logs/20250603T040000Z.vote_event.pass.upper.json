@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Judiciary): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-03T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "5881c504-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 739",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Baker",
+      "voter_id": "~{\"name\": \"Lisa Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Amanda Cappelletti",
+      "voter_id": "~{\"name\": \"Amanda Cappelletti\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nikil Saval",
+      "voter_id": "~{\"name\": \"Nikil Saval\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=206&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=206&sessYr=2025&sessInd=0#SB 739"
+}

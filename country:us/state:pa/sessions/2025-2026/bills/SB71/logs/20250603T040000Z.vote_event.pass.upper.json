@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (State Government): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-03T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "812d5d70-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 71",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Phillips-Hill",
+      "voter_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nikil Saval",
+      "voter_id": "~{\"name\": \"Nikil Saval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick Stefano",
+      "voter_id": "~{\"name\": \"Patrick Stefano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Williams",
+      "voter_id": "~{\"name\": \"Anthony Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=41&rollcallid=208&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=41&rollcallid=208&sessYr=2025&sessInd=0#SB 71"
+}

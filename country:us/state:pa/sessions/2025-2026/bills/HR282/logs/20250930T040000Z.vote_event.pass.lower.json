@@ -1,0 +1,192 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Health): Report Bill As Committed",
+  "motion_classification": [],
+  "start_date": "2025-09-30T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025-2026",
+  "bill": "d8f71a9c-b152-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "HR 282",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Dan Frankel",
+      "voter_id": "~{\"name\": \"Dan Frankel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Benham",
+      "voter_id": "~{\"name\": \"Jessica Benham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Borowski",
+      "voter_id": "~{\"name\": \"Lisa Borowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heather Boyd",
+      "voter_id": "~{\"name\": \"Heather Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Liz Hanbidge",
+      "voter_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristine Howard",
+      "voter_id": "~{\"name\": \"Kristine Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarik Khan",
+      "voter_id": "~{\"name\": \"Tarik Khan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bridget Kosierowski",
+      "voter_id": "~{\"name\": \"Bridget Kosierowski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Krajewski",
+      "voter_id": "~{\"name\": \"Rick Krajewski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La'Tasha Mayes",
+      "voter_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danielle Friel Otten",
+      "voter_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benjamin Sanchez",
+      "voter_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melissa Shusterman",
+      "voter_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arvind Venkat",
+      "voter_id": "~{\"name\": \"Arvind Venkat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathy Rapp",
+      "voter_id": "~{\"name\": \"Kathy Rapp\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Bonner",
+      "voter_id": "~{\"name\": \"Timothy Bonner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marla Brown",
+      "voter_id": "~{\"name\": \"Marla Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gary Day",
+      "voter_id": "~{\"name\": \"Gary Day\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charity Krupa",
+      "voter_id": "~{\"name\": \"Charity Krupa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brad Roae",
+      "voter_id": "~{\"name\": \"Brad Roae\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leslie Rossi",
+      "voter_id": "~{\"name\": \"Leslie Rossi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joanne Stehr",
+      "voter_id": "~{\"name\": \"Joanne Stehr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Twardzik",
+      "voter_id": "~{\"name\": \"Tim Twardzik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Zimmerman",
+      "voter_id": "~{\"name\": \"David Zimmerman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephanie Borowicz",
+      "voter_id": "~{\"name\": \"Stephanie Borowicz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamie Walsh",
+      "voter_id": "~{\"name\": \"Jamie Walsh\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 24
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=1195&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=1195&sessYr=2025&sessInd=0#HR 282"
+}

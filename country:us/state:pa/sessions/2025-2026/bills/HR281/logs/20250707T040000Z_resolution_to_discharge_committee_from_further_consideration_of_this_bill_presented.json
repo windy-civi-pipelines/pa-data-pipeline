@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Resolution to discharge committee from further consideration of this bill presented",
+    "date": "2025-07-07T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 281"
+}

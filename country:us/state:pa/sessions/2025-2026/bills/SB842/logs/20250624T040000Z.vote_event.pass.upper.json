@@ -1,0 +1,168 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Appropriations): Re-Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "75b7a832-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 842",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Rosemary Brown",
+      "voter_id": "~{\"name\": \"Rosemary Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amanda Cappelletti",
+      "voter_id": "~{\"name\": \"Amanda Cappelletti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jarrett Coleman",
+      "voter_id": "~{\"name\": \"Jarrett Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lynda Schlegel Culver",
+      "voter_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cris Dush",
+      "voter_id": "~{\"name\": \"Cris Dush\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vincent Hughes",
+      "voter_id": "~{\"name\": \"Vincent Hughes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patty Kim",
+      "voter_id": "~{\"name\": \"Patty Kim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wayne Langerholc",
+      "voter_id": "~{\"name\": \"Wayne Langerholc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy Pennycuick",
+      "voter_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Phillips-Hill",
+      "voter_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Picozzi",
+      "voter_id": "~{\"name\": \"Joe Picozzi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judith Schwank",
+      "voter_id": "~{\"name\": \"Judith Schwank\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharif Street",
+      "voter_id": "~{\"name\": \"Sharif Street\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elder Vogel",
+      "voter_id": "~{\"name\": \"Elder Vogel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joe Pittman",
+      "voter_id": "~{\"name\": \"Joe Pittman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jay Costa",
+      "voter_id": "~{\"name\": \"Jay Costa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Martin",
+      "voter_id": "~{\"name\": \"Scott Martin\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=356&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=356&sessYr=2025&sessInd=0#SB 842"
+}

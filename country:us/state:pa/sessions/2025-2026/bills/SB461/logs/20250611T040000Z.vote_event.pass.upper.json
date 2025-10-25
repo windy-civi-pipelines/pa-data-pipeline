@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Health & Human Services): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-11T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "0880ba56-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 461",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Amanda Cappelletti",
+      "voter_id": "~{\"name\": \"Amanda Cappelletti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Hutchinson",
+      "voter_id": "~{\"name\": \"Scott Hutchinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judith Schwank",
+      "voter_id": "~{\"name\": \"Judith Schwank\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick Stefano",
+      "voter_id": "~{\"name\": \"Patrick Stefano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharif Street",
+      "voter_id": "~{\"name\": \"Sharif Street\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Lynda Schlegel Culver",
+      "voter_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=33&rollcallid=271&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=33&rollcallid=271&sessYr=2025&sessInd=0#SB 461"
+}

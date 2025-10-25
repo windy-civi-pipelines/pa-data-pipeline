@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Environmental Resources & Energy): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-03-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "f7638d34-b14e-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SB 404",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Camera Bartolotta",
+      "voter_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carolyn Comitta",
+      "voter_id": "~{\"name\": \"Carolyn Comitta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Hutchinson",
+      "voter_id": "~{\"name\": \"Scott Hutchinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Kane",
+      "voter_id": "~{\"name\": \"John Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel Laughlin",
+      "voter_id": "~{\"name\": \"Daniel Laughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Martin",
+      "voter_id": "~{\"name\": \"Scott Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elder Vogel",
+      "voter_id": "~{\"name\": \"Elder Vogel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gene Yaw",
+      "voter_id": "~{\"name\": \"Gene Yaw\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Katie Muth",
+      "voter_id": "~{\"name\": \"Katie Muth\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nikil Saval",
+      "voter_id": "~{\"name\": \"Nikil Saval\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=9&rollcallid=51&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=9&rollcallid=51&sessYr=2025&sessInd=0#SB 404"
+}

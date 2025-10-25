@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Education): Reported as Committed",
+  "motion_classification": [],
+  "start_date": "2025-06-10T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "c85b99a4-b14f-11f0-8a3a-767bbc5089f8",
+  "bill_action": null,
+  "bill_identifier": "SR 119",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jarrett Coleman",
+      "voter_id": "~{\"name\": \"Jarrett Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carolyn Comitta",
+      "voter_id": "~{\"name\": \"Carolyn Comitta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dawn Keefer",
+      "voter_id": "~{\"name\": \"Dawn Keefer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doug Mastriano",
+      "voter_id": "~{\"name\": \"Doug Mastriano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Rothman",
+      "voter_id": "~{\"name\": \"Greg Rothman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Williams",
+      "voter_id": "~{\"name\": \"Anthony Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Williams",
+      "voter_id": "~{\"name\": \"Lindsey Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lynda Schlegel Culver",
+      "voter_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=23&rollcallid=243&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=23&rollcallid=243&sessYr=2025&sessInd=0#SR 119"
+}
