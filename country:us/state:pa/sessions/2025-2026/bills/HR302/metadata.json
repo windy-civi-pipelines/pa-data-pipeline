@@ -160,6 +160,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:31:45Z"
+    "logs_latest_update": "2025-10-25T03:31:45Z",
+    "text_extraction_latest_update": "2025-10-25T09:31:20.482698Z"
   }
 }
